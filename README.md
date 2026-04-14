@@ -38,3 +38,7 @@ Click on forgot password and follow steps.
 - Integrate with real vector database (Endee)
 - Add web interface (Streamlit)
 - Support large-scale datasets
+
+## 📷 Demonstration
+
+![Output Screenshot](output.png)
