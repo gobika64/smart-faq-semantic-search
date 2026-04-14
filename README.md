@@ -41,4 +41,4 @@ Click on forgot password and follow steps.
 
 ## 📷 Demonstration
 
-![Output Screenshot](output.png)
+![Output Screenshot](output.png.png)
