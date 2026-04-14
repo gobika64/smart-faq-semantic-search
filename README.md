@@ -41,4 +41,4 @@ Click on forgot password and follow steps.
 
 ## 📷 Demonstration
 
-![Output Screenshot](output.png.png)
+![Output Screenshot](<img width="1204" height="259" alt="output png" src="https://github.com/user-attachments/assets/75509b24-c0b3-414d-890b-06da4cf0cee6" />)
