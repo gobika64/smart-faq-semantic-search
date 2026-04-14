@@ -1,0 +1,5 @@
+What is AI?|Artificial Intelligence is the simulation of human intelligence.
+How to reset password?|Click on forgot password and follow steps.
+What is Python?|Python is a programming language.
+What is machine learning?|Machine learning is a subset of AI.
+How to contact support?|You can email support@example.com
